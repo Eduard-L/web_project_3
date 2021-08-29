@@ -1,0 +1,8 @@
+.place_name_ohio {
+    margin-top: 81px;
+  }
+  @media screen and (max-width: 768px) {
+    .place_name_ohio {
+      margin-top: 73px;
+    }
+  }

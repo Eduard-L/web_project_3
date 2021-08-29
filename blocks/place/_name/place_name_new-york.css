@@ -1,0 +1,14 @@
+.place_name_new-york {
+    margin-top: 80px;
+  }
+  @media screen and (max-width: 768px) {
+    .place_name_new-york {
+      margin-top: 73px;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .place_name_new-york {
+      margin-top: 48px;
+    }
+  }

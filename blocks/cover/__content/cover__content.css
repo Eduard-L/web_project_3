@@ -1,0 +1,8 @@
+.cover__content {
+    grid-column: 1 / span 12;
+    grid-row: 1/2;
+    margin: auto;
+    max-height: 174px;
+    position: relative;
+    z-index: 5;
+  }

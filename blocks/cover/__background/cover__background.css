@@ -1,0 +1,28 @@
+.cover__background {
+  background-image: url(../../../images_project_3/route66.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  min-height: 740px;
+  max-width: 1184px;
+  align-items: center;
+  text-decoration: none;
+  margin: 0px auto;
+  display: grid;
+}
+@media screen and (max-width: 1024px) {
+  .cover__background {
+    min-height: 640px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .cover__background {
+    min-height: 440px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cover__background {
+    min-height: 200px;
+  }
+}

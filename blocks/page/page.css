@@ -1,0 +1,4 @@
+.page {
+    background-color: #2a2c2f; /* בעיית רוחב כללית בכל האלמנטים */
+    display: block;
+  }
