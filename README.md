@@ -49,7 +49,7 @@
 
 **_Enjoy!_**
 
-![Practicum Logo](./images_project_3/logo (2).svg)
+![Practicum Logo](./images_project_3/logo.svg)
 
 ---
 
