@@ -42,8 +42,11 @@
   - 1024px
   - 1280px
 - Functions
+
   - calc
   - minmax
+
+  link to the project ---> https://eduard-l.github.io/web_project_3/
 
 ---
 
