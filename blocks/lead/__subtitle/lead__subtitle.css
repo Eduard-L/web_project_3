@@ -40,7 +40,7 @@
     margin-bottom: 0px;
     align-self: center;
     max-width: 620px;
-    max-height: 72px;
+   
   }
   
   @media screen and (max-width: 500px) {
@@ -54,4 +54,7 @@
       margin-right: 16px;
     }
   }
+<<<<<<< HEAD
 >>>>>>> 3e3b3ce1753f6c0ed1508e9d8211957f8fffb858
+=======
+>>>>>>> 4512010b785f2463559d3ea6303ab61254c445a2
