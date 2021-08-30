@@ -1,0 +1,13 @@
+.cover__overlay {
+    width: 100%;
+    grid-column: 1 / span 12;
+    grid-row: 1/2;
+    background-color: #2a2c2f;
+    opacity: 0.3;
+    height: 100%;
+    max-width: 1184px;
+  }
+  .cover__overlay:hover {
+    opacity: 0.8;
+    transition: 1s linear;
+  }

@@ -1,0 +1,17 @@
+.into__list {
+    list-style: none;
+    padding: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    color: #ffffff;
+    margin-top: 33px;
+    margin-bottom: 0px;
+  }
+  @media screen and (max-width: 320px) {
+    .into__list {
+      margin-top: 34px;
+    }
+}

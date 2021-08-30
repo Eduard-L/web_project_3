@@ -1,0 +1,39 @@
+.into {
+    display: flex;
+    flex-direction: column;
+    margin-top: 92px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 720px;
+    min-width: 288px;
+    max-height: 841px;
+    min-height: 543px;
+  }
+  @media screen and (max-width: 1280px) {
+    .into {
+      margin-left: 148px;
+      max-width: 690px;
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    .into {
+      margin-left: 48px;
+      max-width: 690px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .into {
+      margin-top: 88px;
+      margin-left: 24px;
+      margin-right: 24px;
+      max-width: 720px;
+    }
+  }
+  @media screen and (max-width: 320px) {
+    .into {
+      margin-top: 64px;
+      margin-left: 16px;
+      margin-right: 16px;
+    }
+  }

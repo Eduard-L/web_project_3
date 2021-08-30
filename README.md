@@ -1,20 +1,59 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+## This is a project about traveling across the US & visiting beautifull places
 
-**Intro**
+**_The places that we will visit in our trip:_**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+- Maine
+- New Hampshire
+- New York
+- Erie, PA
+- Ohio
 
-**Figma**
+**_The project contains_**
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+- Images
+  - Images of the main places
+  - images of some views on the route
+- Links
+  - Places
+  - Calendar
+  - Weather
+  - Maps
+- Description of the places
 
-**Images**
+---
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+## Html & CSS techniques
 
-Good luck and have fun!
+**_The project was done according figma design like in real tech job_**
+
+**The main techniques:**
+
+- BEM Methology & BEM file structure
+- Position Elements with:
+  - FLEX BOX
+  - Grid
+- Pseudo Classes
+- Image Link Transitions
+- The content is relativing to the most common screens sizes!
+  - 320px
+  - 768px
+  - 1024px
+  - 1280px
+- Functions
+
+  - calc
+  - minmax
+
+  link to the project ---> https://eduard-l.github.io/web_project_3/
+
+---
+
+**_Enjoy!_**
+
+![Practicum Logo](./images_project_3/logo.svg)
+
+---
+
+Made by ©Loktev_Ed
