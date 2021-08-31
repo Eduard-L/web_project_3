@@ -1,8 +1,5 @@
 .logo {
-    max-width: 190px;
-    min-width: 156px;
-    width: calc(100% / 3);
-    min-height: 34px;
-    max-height: 44px;
-    height: calc(100vw / 15);
-  }
+  max-width: 190px;
+  min-width: 156px;
+  width: calc(100% / 3);
+}
