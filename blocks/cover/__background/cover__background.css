@@ -10,15 +10,6 @@
   text-decoration: none;
   margin: 0px auto;
   display: grid;
-}
-
-@media screen and (max-width: 768px) {
-  .cover__background {
-    min-height: 440px;
-  }
-}
-@media screen and (max-width: 500px) {
-  .cover__background {
-    min-height: 200px;
-  }
+  min-height: 200px;
+  height: calc(100vw / 1.6);
 }
