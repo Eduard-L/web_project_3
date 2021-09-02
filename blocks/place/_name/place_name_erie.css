@@ -1,13 +1,13 @@
 .place_name_erie {
-    margin-top: 80px;
+  margin-top: 80px;
+}
+@media screen and (max-width: 768px) {
+  .place_name_erie {
+    margin-top: 73px;
   }
-  @media screen and (max-width: 768px) {
-    .place_name_erie {
-      margin-top: 73px;
-    }
+}
+@media screen and (max-width: 500px) {
+  .place_name_erie {
+    margin-top: 48px;
   }
-  @media screen and (max-width: 320px) {
-    .place_name_erie {
-      margin-top: 48px;
-    }
-  }
+}

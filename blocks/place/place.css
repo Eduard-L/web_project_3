@@ -19,18 +19,18 @@
     grid-template-rows: 46px auto;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .place {
     grid-column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 800px) {
   .place {
     grid-template-columns: minmax(150px, 350px) minmax(150px, 350px);
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 620px) {
   .place {
     grid-template-columns: 320px;
     margin: auto;
