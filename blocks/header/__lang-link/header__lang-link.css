@@ -7,6 +7,7 @@
   text-align: right;
   color: #ffffff;
   margin-right: 18px;
+  text-decoration: none;
 }
 .header__lang-link:last-of-type {
   margin-right: 0px;
